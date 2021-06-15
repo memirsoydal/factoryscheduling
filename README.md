@@ -53,4 +53,10 @@ Includes your schedule result like the input files format.
 #### Format: (ScheduleTime;OperationCode;OrderCode;AmountOfWork;SetupOverhead\n\r)
 Ex:
 * 0;2;1;100;0
-* 17;3;2;100;10
+* 7;2;6;100;0
+* 14;2;5;100;0
+* 26;3;2;100;5
+* 37;1;4;200;10
+* 57;1;3;200;0
+* 89;4;7;100;12
+
